@@ -113,7 +113,7 @@ Load Testing: 10,000+ concurrent user simulation
 👨‍💻 Author
 Harsh Pandey
 B.E CSE (AI & ML) — Sathyabama Institute of Science and Technology
-GitHub: @yourusername
+GitHub: hp0718-blr
 Deployed on Vercel
 
 🪪 License
